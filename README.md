@@ -2,7 +2,7 @@
 
 This repo contains a visualization generator of user relations built using issues data from [Atlassian JIRA](https://www.atlassian.com/software/jira).
 
-An example of such visualization
+An example of such visualization based on anonymized data based on [Victor Hugo's](https://en.wikipedia.org/wiki/Victor_Hugo) characters:
 ![An example of JIRA users relations chart](example/relations-chart.png)
 
 ## How to prepare issues data

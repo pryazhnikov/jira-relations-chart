@@ -4,3 +4,15 @@ This repo contains a visualization generator of user relations built using issue
 
 An example of such visualization
 ![An example of JIRA users relations chart](example/relations-chart.png)
+
+## How to prepare issues data
+
+Step #1: Go to the issues search
+
+![Issues at top menu](assets/jira--issues-menu.png)
+
+Step #2: Find matching issues
+
+Step #3: Export issues result into **Excel format**
+
+![Export button](assets/jira--issues-export.png)

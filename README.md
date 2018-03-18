@@ -16,3 +16,9 @@ Step #2: Find matching issues
 Step #3: Export issues result into **Excel format**
 
 ![Export button](assets/jira--issues-export.png)
+
+## How to run
+
+```
+$ jupyter notebook Processor.ipynb
+```
